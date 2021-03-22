@@ -5,3 +5,5 @@
 # 4)Merge Sort(Divide and Conquer Approach)
 # 5)Minimum Maximum (Divide and Conquer Approach)
 # 6)Binary Search(Divide and Conquer Approach)
+# 7)Dijikstra Algorithm (Greedy Method Approach)
+# 8)Fractional Knapsack (Greedy Method Approach)
