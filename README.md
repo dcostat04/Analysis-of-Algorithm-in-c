@@ -17,3 +17,4 @@
  16) N-Queen Algorithm (Backtracking)(nqueen.c)
  17) Sum of Subsets (Backtracking)(Subset.c)
  18) Graph Coloring (Backtracking)(grapghcol.c)
+# any doubts mail me : dcostat4 @gmail.com 
