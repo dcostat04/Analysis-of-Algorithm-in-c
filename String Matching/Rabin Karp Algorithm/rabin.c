@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+void karp(char *txt,char *pat,int d,int q);
 int main (){
    char txt[80], pat[80];
    int q;
@@ -11,7 +12,12 @@ int main (){
    int d = 256;
    printf ("Enter a prime number \n");
    scanf ("%d", &q);
-   int M = strlen (pat);
+   karp(txt,pat,d,q);
+   return 0;
+}
+void karp(char *txt,char *pat,int d,int q)
+{
+    int M = strlen (pat);
    int N = strlen (txt);
    int i, j;
    int p = 0;
@@ -38,5 +44,4 @@ int main (){
             t = (t + q);
       }
    }
-   return 0;
 }
