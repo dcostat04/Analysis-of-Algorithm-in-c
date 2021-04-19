@@ -6,9 +6,10 @@ void pattern_matching(char *str, char *pattern);
 int main()
 {
       char str[30], pattern[30];
-      printf("\nEnter a String:");
+      printf("Naive String Algorithm\n");
+      printf("Enter a String\n");
       scanf("%s", str);
-      printf("\nEnter a Pattern to Match:");
+      printf("Enter a Pattern to Match\n");
       scanf("%s", pattern);
       pattern_matching(str, pattern);
       return 0;
