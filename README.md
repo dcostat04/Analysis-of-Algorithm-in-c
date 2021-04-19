@@ -17,4 +17,6 @@
  16) N-Queen Algorithm (Backtracking)(nqueen.c)
  17) Sum of Subsets (Backtracking)(Subset.c)
  18) Graph Coloring (Backtracking)(grapghcol.c)
+ 19) Naive String Matching Algorithm (String Matching)(naive.c)
+ 20) Rabin Karp Algorithm (String Matching)(rabin.c)
 # any doubts mail me : dcostat4 @gmail.com 
